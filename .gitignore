@@ -1,0 +1,7 @@
+
+# Personal project notes
+clotty.org
+
+# KiCad local state / backups
+*.kicad_prl
+*-backups/
