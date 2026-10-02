@@ -1,0 +1,9 @@
+(version 1)
+(rule "USB4105 internal hole clearance"
+    (condition "A.memberOfFootprint('J2')")
+    (constraint hole_clearance (min 0.19mm))
+)
+(rule "Allow RGB light window mask bridge"
+    (constraint bridged_mask)
+    (condition "A.intersectsArea('RGB_LIGHT_WINDOW')")
+    (severity ignore))

@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "clotty") (type "KiCad") (uri "${KIPRJMOD}/libraries/footprints/clotty.pretty") (options "") (descr ""))
+)

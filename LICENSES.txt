@@ -1,0 +1,12 @@
+This repository contains material under multiple licenses.
+
+Hardware design files:
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+See LICENSES/CERN-OHL-S-2.0.txt
+
+Original artwork and documentation:
+Creative Commons Attribution-ShareAlike 4.0 International
+See LICENSES/CC-BY-SA-4.0.txt
+
+Third-party material retains its respective license.
+See README.md for details.
