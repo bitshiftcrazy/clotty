@@ -246,6 +246,7 @@ DOOM renders at 320×200 and is horizontally scaled to 240×200 for the display.
 ├── clotty.kicad_sch      schematic
 ├── fp-lib-table
 └── sym-lib-table
+```
 
 ## Documentation
 
